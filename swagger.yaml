@@ -1,0 +1,51 @@
+openapi: 3.0.0
+info:
+  title: Test API
+  description: Test API
+  version: 0.0.1
+servers:
+  - url: http://localhost:8080
+    description: local server
+paths:
+  /ready:
+    get:
+      summary: Returns service readiness
+      description: this is description
+      responses:
+        '200':    # status code
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ReadyResponse'
+        '500':    # status code
+          description: internal server error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+components:
+  schemas:
+    ErrorResponse:
+      properties:
+        code:
+          type: integer
+          format: int32
+        status:
+          type: string
+        error:
+          type: string
+      required:
+        - code
+        - status
+        - error
+    ReadyResponse:
+      properties:
+        service:
+          type: string
+        status:
+          type: string
+      required:
+        - service
+        - status

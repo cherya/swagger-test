@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="864feb58-f34b-49ad-9488-e69d5ae39bd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ghAIM9bq2QBUYapgoSbWWgWDnd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="proto-test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/cherya/proto-test" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name=".generate-client" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target=".generate-client" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name=".generate-server" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target=".generate-server" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="SwaggerCodegen: swagger.yaml" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="$PROJECT_DIR$/internal/app" />
+      <option name="generationParameters">
+        <list>
+          <CliArgumentViewModel>
+            <option name="name" />
+            <option name="value" />
+          </CliArgumentViewModel>
+        </list>
+      </option>
+      <option name="generatorPath" value="$PROJECT_DIR$/bin/swagger-codegen-cli.jar" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="go-server" />
+      <option name="specificationPath" value="$PROJECT_DIR$/swagger.yaml" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="$PROJECT_DIR$/internal/app" />
+      <option name="generationParameters">
+        <list>
+          <CliArgumentViewModel>
+            <option name="name" />
+            <option name="value" />
+          </CliArgumentViewModel>
+        </list>
+      </option>
+      <option name="generatorPath" value="$PROJECT_DIR$/bin/swagger-codegen-cli.jar" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="go-server" />
+      <option name="specificationPath" value="$PROJECT_DIR$/swagger.yaml" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Makefile..generate-server" />
+        <item itemvalue="Makefile..generate-client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="367" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598609344994">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="533" y="367" key="#com.intellij.fileTypes.FileTypeChooser/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598609344994" />
+    <state x="533" y="367" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1598556401318" />
+    <state width="1350" height="318" key="GridCell.Tab.0.bottom" timestamp="1598611289794">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="318" key="GridCell.Tab.0.bottom/-370.-1417.2560.1417/0.0.1792.1120@0.0.1792.1120" timestamp="1598608893552" />
+    <state width="1350" height="318" key="GridCell.Tab.0.bottom/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598611289794" />
+    <state width="1350" height="318" key="GridCell.Tab.0.center" timestamp="1598611289792">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="318" key="GridCell.Tab.0.center/-370.-1417.2560.1417/0.0.1792.1120@0.0.1792.1120" timestamp="1598608893550" />
+    <state width="1350" height="318" key="GridCell.Tab.0.center/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598611289792" />
+    <state width="1350" height="318" key="GridCell.Tab.0.left" timestamp="1598611289791">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="318" key="GridCell.Tab.0.left/-370.-1417.2560.1417/0.0.1792.1120@0.0.1792.1120" timestamp="1598608893548" />
+    <state width="1350" height="318" key="GridCell.Tab.0.left/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598611289791" />
+    <state width="1350" height="318" key="GridCell.Tab.0.right" timestamp="1598611289793">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="318" key="GridCell.Tab.0.right/-370.-1417.2560.1417/0.0.1792.1120@0.0.1792.1120" timestamp="1598608893551" />
+    <state width="1350" height="318" key="GridCell.Tab.0.right/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598611289793" />
+    <state width="1350" height="347" key="GridCell.Tab.1.bottom" timestamp="1598609796423">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="347" key="GridCell.Tab.1.bottom/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598609796423" />
+    <state width="1350" height="347" key="GridCell.Tab.1.center" timestamp="1598609796421">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="347" key="GridCell.Tab.1.center/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598609796421" />
+    <state width="1350" height="347" key="GridCell.Tab.1.left" timestamp="1598609796420">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="347" key="GridCell.Tab.1.left/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598609796420" />
+    <state width="1350" height="347" key="GridCell.Tab.1.right" timestamp="1598609796422">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1350" height="347" key="GridCell.Tab.1.right/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598609796422" />
+    <state x="577" y="309" width="637" height="502" key="find.popup" timestamp="1598608830383">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="577" y="309" width="637" height="502" key="find.popup/-370.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1598608830383" />
+  </component>
+</project>
